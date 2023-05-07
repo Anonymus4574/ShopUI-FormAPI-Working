@@ -84,10 +84,10 @@ shop: # if you want the shop to have a custom name you must add the options in t
       2:
         Name: "Iron:textures/items/iron_chestplate"
         Items:
-          - "306:0:1:17000:0:Default:textures/items/iron_helmet"
-          - "307:0:1:17000:0:Default:textures/items/iron_chestplate"
-          - "308:0:1:17000:0:Default:textures/items/iron_leggings"
-          - "309:0:1:17000:0:Default:textures/items/iron_boots"
+          - "306:0:1:1700:0:Default:textures/items/iron_helmet"
+          - "307:0:1:1700:0:Default:textures/items/iron_chestplate"
+          - "308:0:1:1700:0:Default:textures/items/iron_leggings"
+          - "309:0:1:1700:0:Default:textures/items/iron_boots"
       3:
         Name: "Gold:textures/items/gold_chestplate"
         Items:
